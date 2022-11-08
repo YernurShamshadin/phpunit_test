@@ -43,6 +43,4 @@
 * Используйте в тестах провайдеры данных (https://phpunit.readthedocs.io/ru/latest/writing-tests-for-phpunit.html#writing-tests-for-phpunit-data-providers)
 * Продумайте и реализуйте дополнительные кейсы валидации, напишите на них тесты
 ### 2. Тесты на Go
-https://go.dev/play/p/ks3Wh4n7iCK
-
-После того, как реализуете решение в песочнице, нажмите на кнопку share и вставьте полученную ссылку в pull request
+Задание по Go находится в go/main_test.go
